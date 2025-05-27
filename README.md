@@ -6,7 +6,7 @@ The Simon Game is an electronic game of memory skill. The device creates a serie
 
 🚀 Live Demo
 Play Simon Game Online
-(Replace with your live deployment link)
+https://gunjanmitt.github.io/drum-kit/
 
 
 📸 Preview
