@@ -10,8 +10,7 @@ https://gunjanmitt.github.io/simon-game-test/
 
 
 📸 Preview
-
-(Include a screenshot of your game if available)
+![Image](https://github.com/user-attachments/assets/f5f20ccf-3d45-40fb-8222-172c4f5adb7d)
 
 🛠️ Features
 Colorful, interactive buttons with sound
